@@ -1,0 +1,26 @@
+<aura:component implements="lightning:recordHomeTemplate" description="Main column
+ and left sidebar, no header.">
+    <aura:attribute name="left" type="Aura.Component[]" />
+    <aura:attribute name="right" type="Aura.Component[]" />
+    <aura:attribute name="topLeft" type="Aura.Component[]"/>
+    <aura:attribute name="topRight" type="Aura.Component[]"/>                                         
+
+    <div>
+        <lightning:layout horizontalAlign="spread" class="slds-m-bottom_xx-large">
+            
+            <lightning:layoutItem flexibility="no-shrink"
+                                  size="{! $Browser.isDesktop ? '3' : '6' }"
+                                  class="slds-m-right_x-small left-column"
+                                  >
+                {!v.left}
+            </lightning:layoutItem>
+            <lightning:layoutItem flexibility="grow"
+                                  class="slds-m-left_x-small right-column">
+                
+                
+                <div>{!v.right}</div>
+            </lightning:layoutItem>
+        </lightning:layout>
+    </div>
+    
+</aura:component>

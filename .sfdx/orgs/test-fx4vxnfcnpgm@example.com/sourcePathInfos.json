@@ -1,0 +1,1239 @@
+[
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548189418,
+            "changeTime": 1532548189418,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548189418,
+            "changeTime": 1532548189418,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1532549574922,
+            "changeTime": 1532549574922,
+            "isWorkspace": false,
+            "contentHash": "1b7ab576944780db2790b9fa67d0206bfde031cd"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1532548440626,
+            "changeTime": 1532548440626,
+            "contentHash": "0dea305f781113c718407dabb2a807b0f1a96ab8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532548440606,
+            "changeTime": 1532548440606,
+            "contentHash": "b2b2101d4749e2ee3e349b29ff951573b87caf81",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItem.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItem.cmp",
+            "isDirectory": false,
+            "size": 1982,
+            "modifiedTime": 1532548440605,
+            "changeTime": 1532548440605,
+            "contentHash": "008b66110627d92d741539eb84c986b1f614dc76",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440605,
+            "changeTime": 1532548440605,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItem.css",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItem.css",
+            "isDirectory": false,
+            "size": 83,
+            "modifiedTime": 1532548440605,
+            "changeTime": 1532548440605,
+            "contentHash": "d42cccb072713f0175bf2270ce1d195fba193acf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItemController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/ActivityFeedItem/ActivityFeedItemController.js",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1532548440606,
+            "changeTime": 1532548440606,
+            "contentHash": "0bcb618e0d966147c11a66c52c9802ff8d427b4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1532548440609,
+            "changeTime": 1532548440609,
+            "contentHash": "c939d735e3766e8d68dea2f6414aca157c211e1a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.cmp",
+            "isDirectory": false,
+            "size": 2024,
+            "modifiedTime": 1532548440607,
+            "changeTime": 1532548440607,
+            "contentHash": "eb23b7d7e534c0f006a0052921576a6977aa16ba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440606,
+            "changeTime": 1532548440606,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.css",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.css",
+            "isDirectory": false,
+            "size": 495,
+            "modifiedTime": 1532548440607,
+            "changeTime": 1532548440607,
+            "contentHash": "b7e1f297eec407b84280ae0f447859131d50b968",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.design",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.design",
+            "isDirectory": false,
+            "size": 374,
+            "modifiedTime": 1532548440608,
+            "changeTime": 1532548440608,
+            "contentHash": "0f731467d17111b8331dbdb8ff7481fe51ce06da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.svg",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeed.svg",
+            "isDirectory": false,
+            "size": 1213,
+            "modifiedTime": 1532548440608,
+            "changeTime": 1532548440608,
+            "contentHash": "5e7c156f62862370dbd08e863fb29c67dc69b83b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeedController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/CustomActivityFeed/CustomActivityFeedController.js",
+            "isDirectory": false,
+            "size": 1664,
+            "modifiedTime": 1532548440609,
+            "changeTime": 1532548440609,
+            "contentHash": "b465df5bd5085d42eb6e394f18e7c21487581c96",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1532548440612,
+            "changeTime": 1532548440612,
+            "contentHash": "979a5c23687a457ad78a226ad1f5b1ad4bf221ab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.cmp",
+            "isDirectory": false,
+            "size": 12809,
+            "modifiedTime": 1532548440610,
+            "changeTime": 1532548440610,
+            "contentHash": "9aeb9a3d8cca4bfa5332b6b86dfa331e027146dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440610,
+            "changeTime": 1532548440610,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.css",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.css",
+            "isDirectory": false,
+            "size": 1397,
+            "modifiedTime": 1532548440611,
+            "changeTime": 1532548440611,
+            "contentHash": "2b42923b95c9988312e86dc9143ddd95545d4ff1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.design",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.design",
+            "isDirectory": false,
+            "size": 1341,
+            "modifiedTime": 1532548440611,
+            "changeTime": 1532548440611,
+            "contentHash": "9f2b24ef0e0655606b4a12296523d95b34bf9763",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.svg",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCard.svg",
+            "isDirectory": false,
+            "size": 1057,
+            "modifiedTime": 1532548440612,
+            "changeTime": 1532548440612,
+            "contentHash": "d0f9bd95c3a75685dec0a007098b1a2ec2d2323e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCardController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/Customer360HighlightCard/Customer360HighlightCardController.js",
+            "isDirectory": false,
+            "size": 3815,
+            "modifiedTime": 1532548440612,
+            "changeTime": 1532548440612,
+            "contentHash": "5fd57552c0ba02aac34466a7803f55df4cd4ecaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1532548440616,
+            "changeTime": 1532548440616,
+            "contentHash": "a0753f7918ecac719919b7535d314b3e392a2932",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.cmp",
+            "isDirectory": false,
+            "size": 5372,
+            "modifiedTime": 1532548440613,
+            "changeTime": 1532548440613,
+            "contentHash": "a0f648401996fdb958b18ec5a7c28ea9cef9bb2e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440613,
+            "changeTime": 1532548440613,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.css",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.css",
+            "isDirectory": false,
+            "size": 76,
+            "modifiedTime": 1532548440614,
+            "changeTime": 1532548440614,
+            "contentHash": "edf7a4235a7eac715583a890bd7fafd116995015",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.design",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.design",
+            "isDirectory": false,
+            "size": 1744,
+            "modifiedTime": 1532548440615,
+            "changeTime": 1532548440615,
+            "contentHash": "5603eb65e12d1054ddc8a9f9b06c7c7bb989a38e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.svg",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestAction.svg",
+            "isDirectory": false,
+            "size": 18548,
+            "modifiedTime": 1532548440615,
+            "changeTime": 1532548440615,
+            "contentHash": "f727bde9e3a801b2b3253b07a200ab2a3dd3993c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestActionController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestAction/NextBestActionController.js",
+            "isDirectory": false,
+            "size": 1218,
+            "modifiedTime": 1532548440616,
+            "changeTime": 1532548440616,
+            "contentHash": "99cbd7e06e908bf09bdbade37308dd79934db6c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1532548440619,
+            "changeTime": 1532548440619,
+            "contentHash": "587666ae32b6c6c4410cfae34a77a065d60970b4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItem.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItem.cmp",
+            "isDirectory": false,
+            "size": 3779,
+            "modifiedTime": 1532548440617,
+            "changeTime": 1532548440617,
+            "contentHash": "9a29a490c4a14f7680df2e8327d43c2ba59d1d1d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440617,
+            "changeTime": 1532548440617,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItem.css",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItem.css",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1532548440618,
+            "changeTime": 1532548440618,
+            "contentHash": "a6b9af415fdbd3bf6e04dbc8fcd03715d066b93c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItemController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItemController.js",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1532548440618,
+            "changeTime": 1532548440618,
+            "contentHash": "fe49ab5ef3df1e1a8e563a10fe7864a4b233e199",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItemHelper.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/NextBestActionItem/NextBestActionItemHelper.js",
+            "isDirectory": false,
+            "size": 505,
+            "modifiedTime": 1532548440619,
+            "changeTime": 1532548440619,
+            "contentHash": "e1c125a86b7bb6bd504c4d0554253ef067c44966",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1532548440621,
+            "changeTime": 1532548440621,
+            "contentHash": "7924b3e7a6e907c4a24edd0a289af6ab72ba1c67",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.cmp",
+            "isDirectory": false,
+            "size": 1111,
+            "modifiedTime": 1532548440620,
+            "changeTime": 1532548440620,
+            "contentHash": "2e61c2aa1d6ba7a4785d226c15b57377b7af5fbc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440620,
+            "changeTime": 1532548440620,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.css",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.css",
+            "isDirectory": false,
+            "size": 43,
+            "modifiedTime": 1532548440621,
+            "changeTime": 1532548440621,
+            "contentHash": "9213cd9a3df9ce7b791e84ee43de86bad06dfd9e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.design",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.design",
+            "isDirectory": false,
+            "size": 1175,
+            "modifiedTime": 1532548440621,
+            "changeTime": 1532548440621,
+            "contentHash": "5dc904f19aada3e8d8596983f15f02f90178fcef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.svg",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/TwoColumnCustomLayout/TwoColumnCustomLayout.svg",
+            "isDirectory": false,
+            "size": 3979,
+            "modifiedTime": 1532548440621,
+            "changeTime": 1532548440621,
+            "contentHash": "7feec348d59ffb1f3a1b5efa0fe5df0bc08e7f1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/acceptAllEvent",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/acceptAllEvent",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532548440623,
+            "changeTime": 1532548440623,
+            "contentHash": "873213b065da4e62f527691600e668409247ef32",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/acceptAllEvent/acceptAllEvent.evt",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/acceptAllEvent/acceptAllEvent.evt",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1532548440623,
+            "changeTime": 1532548440623,
+            "contentHash": "46472a2e75e885721a7bc04491a4105568dc3965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/acceptAllEvent/acceptAllEvent.evt-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/acceptAllEvent/acceptAllEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440622,
+            "changeTime": 1532548440622,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1532548440625,
+            "changeTime": 1532548440625,
+            "contentHash": "2e95fed3696fa204185c2815977297337cd50fe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDate.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDate.cmp",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1532548440624,
+            "changeTime": 1532548440624,
+            "contentHash": "3b7a8d36a023a9f92cef7dc548012057442e9371",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDate.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDate.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440624,
+            "changeTime": 1532548440624,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDateController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDateController.js",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1532548440624,
+            "changeTime": 1532548440624,
+            "contentHash": "b059f2800aa0a7971867c18c03b6e8314cb7cf4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDateHelper.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/daysAgoDate/daysAgoDateHelper.js",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1532548440625,
+            "changeTime": 1532548440625,
+            "contentHash": "0c0c8b54137f617d65175816906f4b2bb0c0affb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/rejectAllEvent",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/rejectAllEvent",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532548440626,
+            "changeTime": 1532548440626,
+            "contentHash": "f555c39739f56b600e8b46f2a48576f45740fb05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/rejectAllEvent/rejectAllEvent.evt",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/rejectAllEvent/rejectAllEvent.evt",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1532548440626,
+            "changeTime": 1532548440626,
+            "contentHash": "46472a2e75e885721a7bc04491a4105568dc3965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/rejectAllEvent/rejectAllEvent.evt-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/aura/rejectAllEvent/rejectAllEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1532548440626,
+            "changeTime": 1532548440626,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532548440578,
+            "changeTime": 1532548440578,
+            "contentHash": "6249d94ffe7eff332d4d9211f1d001cd3b1e3152",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/classes/CustomActivityController.cls",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/classes/CustomActivityController.cls",
+            "isDirectory": false,
+            "size": 466,
+            "modifiedTime": 1532548440579,
+            "changeTime": 1532548440579,
+            "contentHash": "0a38f5a7986cc141d32c677be26d2ac7f4a2b5a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/classes/CustomActivityController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/classes/CustomActivityController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1532548440578,
+            "changeTime": 1532548440578,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548440583,
+            "changeTime": 1532548440583,
+            "contentHash": "b99127d1b82a888e300339437b42fe47a5b98863",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/flexipages/Customer_360_Contact_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/flexipages/Customer_360_Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6817,
+            "modifiedTime": 1532548440583,
+            "changeTime": 1532548440583,
+            "contentHash": "77cf8b5c7bf884ed2a38669533e294bc8fcfd11c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548440585,
+            "changeTime": 1532548440585,
+            "contentHash": "ce50bc64cde1b057d89a981336d7c449a1b6b0e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/layouts/Custom_Activity__c-Custom Activity Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/layouts/Custom_Activity__c-Custom Activity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2906,
+            "modifiedTime": 1532548440585,
+            "changeTime": 1532548440585,
+            "contentHash": "f9fd3dd63038fd7a90e7bbe30d703783fb07652f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1532548440594,
+            "changeTime": 1532548440594,
+            "contentHash": "ddbc89e761bc410ba40c573362d513a3326cd309",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548440588,
+            "changeTime": 1532548440588,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548440588,
+            "changeTime": 1532548440588,
+            "contentHash": "dc84cec93f973ef8bfe35e119cfc6f39d3bf6035",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Contact/fields/Cust360_Contact_Picture_URL__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Contact/fields/Cust360_Contact_Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1532548440588,
+            "changeTime": 1532548440588,
+            "contentHash": "d8825f058487501de5a812faba73b9c76ff23c10",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1532548440596,
+            "changeTime": 1532548440596,
+            "contentHash": "1d21bf05ff6dfd79f534601e6771e680fc4b8a24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/Custom_Activity__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/Custom_Activity__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2159,
+            "modifiedTime": 1532548440594,
+            "changeTime": 1532548440594,
+            "contentHash": "ddda7555cc70dbf844588ad91ce5df840eea85e0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1532548440596,
+            "changeTime": 1532548440596,
+            "contentHash": "1943f90fca6ee413e7106b915fbf7b85b8eaca5f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/Contact__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 518,
+            "modifiedTime": 1532548440595,
+            "changeTime": 1532548440595,
+            "contentHash": "c0d4cf554691b55b126a8451bc980e2bf2d870ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/days_ago__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/days_ago__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 572,
+            "modifiedTime": 1532548440595,
+            "changeTime": 1532548440595,
+            "contentHash": "c22aa4562415c6d89855d73fcb5cc41f826577c1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/icon__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/icon__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 820,
+            "modifiedTime": 1532548440595,
+            "changeTime": 1532548440595,
+            "contentHash": "abcc76985a35d8163bb3d56b5e762d8216896cba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/message__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1532548440596,
+            "changeTime": 1532548440596,
+            "contentHash": "abf88ccce6641f6393903105a1d2e41e8dd7f4b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/order__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 527,
+            "modifiedTime": 1532548440596,
+            "changeTime": 1532548440596,
+            "contentHash": "64f85021c005bce32a398c18318745446238b4bf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/time__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/fields/time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1532548440596,
+            "changeTime": 1532548440596,
+            "contentHash": "5f646f6e75d2f8829d22e4e1057a02a7594f159c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/listViews",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548440596,
+            "changeTime": 1532548440596,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/objects/Custom_Activity__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1532548440597,
+            "changeTime": 1532548440597,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1532548440602,
+            "changeTime": 1532548440602,
+            "contentHash": "85e09f816728cc65463c033dee94f317fa2742c2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/permissionsets/Custom_Activity_Permset.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/permissionsets/Custom_Activity_Permset.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1746,
+            "modifiedTime": 1532548440602,
+            "changeTime": 1532548440602,
+            "contentHash": "5a9f731d71db1b20a65964361f8429351b5f2c99",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/quickActions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/quickActions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1532549574916,
+            "changeTime": 1532549574916,
+            "isWorkspace": false,
+            "contentHash": "010d93ab6b000b4a87516c9fa635309613a1479d"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/quickActions/Contact.New_Activity.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/quickActions/Contact.New_Activity.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 2180,
+            "modifiedTime": 1532548440604,
+            "changeTime": 1532548440604,
+            "contentHash": "97fc5342ce08cd22ced213ca0f0a85646fe7e418",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1532548661436,
+            "changeTime": 1532548661436,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1532549574989,
+            "changeTime": 1532549574989,
+            "contentHash": "faeef07df951af207ef54c4496553b7e52ebafaf"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/staticresources/Cust360_EinsteinLogo.resource",
+        {
+            "state": "u",
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/staticresources/Cust360_EinsteinLogo.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3537,
+            "modifiedTime": 1532063984000,
+            "changeTime": 1532549574985,
+            "contentHash": "960d2392fcf857773e1271f72524a6d6704394d4"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/staticresources/Cust360_EinsteinLogo.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/Lightning Components/Customer 360 Profile Packages/Cust360Package/force-app/main/default/staticresources/Cust360_EinsteinLogo.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1532063984000,
+            "changeTime": 1532549574989,
+            "contentHash": "f97ab3c91eddee9c19d37db820b53dc22a6c0f10"
+        }
+    ]
+]
